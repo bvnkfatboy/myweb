@@ -1,1 +1,1 @@
-# myweb
+# first repository for university
